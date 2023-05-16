@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Drugi dio testa napravljen na kompu lokalno
+=======
+Pisanje testnog teksta na GitHubu
+druga linija
+>>>>>>> 42225c34d6dc8e58c74d0cfa1005b2cd520dbe71
